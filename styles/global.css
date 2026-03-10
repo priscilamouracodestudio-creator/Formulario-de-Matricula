@@ -9,6 +9,10 @@
   --text: 400 1rem/1.5 var(--font-family);
   --text-sm: 400 .875rem/1.4 var(--font-family);
 
+  --brand-dark: #E43A12;
+  --brand-mid: #F3541C;
+  --brand-light: #F67841;
+
   --text-primary: #292524;
   --text-secondary: #57534E;
   --text-tertiary: #8F8881;
