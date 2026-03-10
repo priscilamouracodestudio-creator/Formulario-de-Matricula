@@ -38,7 +38,7 @@ O projeto foi construído utilizando as melhores práticas de Front-end:
 
 Durante o desenvolvimento, foquei em resolver problemas reais de interface, como:
 
-### 1. Custom Checkbox (A "Bruxaria" do CSS)
+### 1. Custom Checkbox
 Implementei uma técnica de **Positioning (Relative/Absolute)** para esconder o input padrão e criar uma caixa personalizada que aceita imagens e transições suaves.
 * **Aprendizado:** Uso do seletor `:checked` e `&:has()` para manipulação de estados sem JavaScript.
 
