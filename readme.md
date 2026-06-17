@@ -1,7 +1,5 @@
 # 🌟 Estrelas do Amanhã - Matrícula Escolar
 
-> **Status do Projeto:** Concluído ✅ | Parte da Formação Full Stack Rocketseat
-
 Uma interface moderna e responsiva para um formulário de matrícula escolar. O projeto foca em **Experiência do Usuário (UX)**, acessibilidade e o uso das tecnologias mais recentes do CSS.
 
 ---
